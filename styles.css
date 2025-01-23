@@ -144,6 +144,7 @@ header .btn:hover {
 .topics-list, .committee-list {
     column-count: 3;  /* Number of columns */
     column-gap: 20px; /* Space between columns */
+    margin-top: 20px;
 }
 
 .topics-list li, .dates-list li, .committee-list li {
